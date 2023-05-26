@@ -2,7 +2,6 @@ package com.example.aop;
 
 import com.example.aop.order.OrderRepository;
 import com.example.aop.order.OrderService;
-import com.example.aop.order.aop.AspectV4Pointcut;
 import com.example.aop.order.aop.AspectV5Order;
 import lombok.extern.slf4j.Slf4j;
 import org.assertj.core.api.Assertions;
